@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.db
+*.log
+*.vs/
+*.vscode/
+
+Data/Migrations/*
