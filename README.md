@@ -25,9 +25,9 @@ Systemet stöder följande operationer:
 ## Flöde för att skapa ett projekt
 För att kunna skapa ett projekt behöver följande steg genomföras i denna ordning:
 
-1️⃣ Skapa en status (Exempel: "Ej påbörjat", "Pågående", "Avslutat")
-2️⃣ Skapa en roll (Exempel: "Projektledare", "Utvecklare")
-3️⃣ Skapa en tjänst (Exempel: "Konsultarbete", "Design")
-4️⃣ Skapa en kund (En kund måste ha kontaktuppgifter)
-5️⃣ Skapa en anställd (Om anställd ska vara projektledare, sätt rollen till "Projektledare")
-6️⃣ Skapa ett projekt (Alla fält fylls i och en projektledare väljs)
+- 1️⃣ Skapa en status (Exempel: "Ej påbörjat", "Pågående", "Avslutat")
+- 2️⃣ Skapa en roll (Exempel: "Projektledare", "Utvecklare")
+- 3️⃣ Skapa en tjänst (Exempel: "Konsultarbete", "Design")
+- 4️⃣ Skapa en kund (En kund måste ha kontaktuppgifter)
+- 5️⃣ Skapa en anställd (Om anställd ska vara projektledare, sätt rollen till "Projektledare")
+- 6️⃣ Skapa ett projekt (Alla fält fylls i och en projektledare väljs)
